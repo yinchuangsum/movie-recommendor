@@ -1,4 +1,4 @@
-#Simple Movie Recommendor App
+# Simple Movie Recommendor App
 
 ## Starting the application
 ### building the application
